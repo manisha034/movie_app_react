@@ -24,7 +24,7 @@ const Favorites = () => {
 
       </div>
 
-      <h2 className='text-center m-3'>Favorites!</h2>
+      <h2 className='text-center m-3'>Favorites</h2>
 
       <div className='container'>
 
